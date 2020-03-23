@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="public" title="dloady_resource_download_notice" version_id="1000070" version_string="1.0.0"><![CDATA[<xf:css src="dloady_resource_download_notice.less" />
+<div class="resourcetextmessage">
+		{{ property('dloady_resource_notice_text') }}
+</div>]]></template>
+  <template type="public" title="dloady_resource_download_notice.less" version_id="1000070" version_string="1.0.0"><![CDATA[.resourcetextmessage{
+    float: right;
+    text-align: right;
+	color: @xf-resourcetextStyle--color;
+	font-size: @xf-resourcetextStyle--font-size;
+	font-weight: @xf-resourcetextStyle--font-weight;
+	font-style: @xf-resourcetextStyle--font-style;
+	text-decoration: @xf-resourcetextStyle--text-decoration;
+}]]></template>
+</templates>

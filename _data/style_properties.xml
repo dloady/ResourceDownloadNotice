@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style_properties>
+  <style_property property_name="dloady_resource_notice_text" group_name="dloady_resource_download_notice_style" title="Notice Text" description="You may use HTML Resource Message Text Here" property_type="value" value_type="string" display_order="0">
+    <value_parameters>rows=3</value_parameters>
+    <value>"&lt;i class=\"far fa-arrow-alt-circle-right\"&gt;&lt;/i&gt; You can download 5 resources within 24 hours"</value>
+  </style_property>
+  <style_property property_name="resourcetextStyle" group_name="dloady_resource_download_notice_style" title="Notice Style" property_type="css" display_order="10" css_components="text">
+    <value>{
+    "font-size": "14px",
+    "color": "@xf-errorFeatureColor",
+    "font-weight": "@xf-fontWeightHeavy"
+}</value>
+  </style_property>
+</style_properties>

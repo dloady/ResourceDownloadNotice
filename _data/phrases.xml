@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="permission.resource_download_notice_view" version_id="1000070" version_string="1.0.0"><![CDATA[View resource notice]]></phrase>
+  <phrase title="permission_interface.resource_download_notice" version_id="1000070" version_string="1.0.0"><![CDATA[Resource download notice]]></phrase>
+  <phrase title="style_prop.dloady_resource_notice_text" version_id="1000070" version_string="1.0.0"><![CDATA[Notice Text]]></phrase>
+  <phrase title="style_prop.resourcetextStyle" version_id="1000070" version_string="1.0.0"><![CDATA[Notice Style]]></phrase>
+  <phrase title="style_prop_desc.dloady_resource_notice_text" version_id="1000070" version_string="1.0.0"><![CDATA[You may use HTML Resource Message Text Here]]></phrase>
+  <phrase title="style_prop_desc.resourcetextStyle" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_group.dloady_resource_download_notice_style" version_id="1000070" version_string="1.0.0"><![CDATA[✎├ Resource Download Notice]]></phrase>
+  <phrase title="style_prop_group_desc.dloady_resource_download_notice_style" version_id="1000070" version_string="1.0.0"><![CDATA[Notice under download button xenforo resources manager]]></phrase>
+</phrases>
