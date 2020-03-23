@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "Resource Download Notice",
+    "description": "Notice Under Download Button Xenforo Resources Manager",
+    "version_id": 1000070,
+    "version_string": "1.0.1",
+    "dev": "Dloady",
+    "dev_url": "https://dloady.com",
+    "faq_url": "",
+    "support_url": "https://dloady.com",
+    "extra_urls": [],
+    "require": [],
+    "icon": "icon.png"
+}
